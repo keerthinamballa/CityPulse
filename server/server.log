@@ -1,0 +1,37 @@
+
+> citypulse-server@1.0.0 dev
+> node --watch index.js
+
+
+🏙️  CityPulse API running on http://localhost:3001
+📡 WebSocket server ready
+📁 Uploads dir: /Users/saikeerthinamballa/.gemini/antigravity/scratch/citypulse/server/uploads
+
+✅ SQLite Database initialized
+🟢 Client connected (1 total)
+🟢 Client connected (2 total)
+🔴 Client disconnected (1 total)
+🟢 Client connected (2 total)
+🔴 Client disconnected (1 total)
+🟢 Client connected (2 total)
+🔴 Client disconnected (1 total)
+🟢 Client connected (2 total)
+🔴 Client disconnected (1 total)
+🟢 Client connected (2 total)
+🔴 Client disconnected (1 total)
+🟢 Client connected (2 total)
+🔴 Client disconnected (1 total)
+🟢 Client connected (2 total)
+🔴 Client disconnected (1 total)
+🟢 Client connected (2 total)
+🔴 Client disconnected (1 total)
+🟢 Client connected (2 total)
+🔴 Client disconnected (1 total)
+🔴 Client disconnected (0 total)
+🟢 Client connected (1 total)
+🟢 Client connected (2 total)
+🔴 Client disconnected (1 total)
+🔴 Client disconnected (0 total)
+🟢 Client connected (1 total)
+🟢 Client connected (2 total)
+Failed running 'index.js'. Waiting for file changes before restarting...
